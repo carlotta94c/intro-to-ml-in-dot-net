@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextClassifierRazor", "TextClassifierRazor\TextClassifierRazor.csproj", "{B517E46E-BB91-4EF4-9718-A89BDFDEFA56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B517E46E-BB91-4EF4-9718-A89BDFDEFA56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B517E46E-BB91-4EF4-9718-A89BDFDEFA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B517E46E-BB91-4EF4-9718-A89BDFDEFA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B517E46E-BB91-4EF4-9718-A89BDFDEFA56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16B2C1DD-EC44-4816-9A47-6B462E1C6339}
+	EndGlobalSection
+EndGlobal

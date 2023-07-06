@@ -1,0 +1,45 @@
+/* Style for News analysis display */
+
+.real {
+    background-color: #eee;
+    position: relative;
+    display: inline-block;
+    padding: 1rem;
+    padding-bottom: 0;
+    border-radius: 1rem;
+}
+
+    .real h4 {
+        font-size: 16px;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+    }
+
+    .real p {
+        font-size: 50px;
+    }
+
+    .real .marker {
+        position: relative;
+        left: 22px;
+        width: calc(100% - 68px);
+    }
+
+        .real .marker > div {
+            transition: 0.3s ease-in-out;
+            position: absolute;
+            margin-left: -30px;
+            text-align: center;
+        }
+
+            .real .marker > div > div {
+                font-size: 50px;
+                line-height: 20px;
+                color: green;
+            }
+
+            .real .marker > div label {
+                font-size: 30px;
+                color: gray;
+            }
